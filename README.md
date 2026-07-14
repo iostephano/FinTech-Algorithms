@@ -8,7 +8,7 @@ esperado.
 Es un recurso educativo y de portafolio técnico — una referencia de algoritmos aplicados a
 finanzas — no un backend ni un SDK listo para producción.
 
----
+<img width="1500" height="500" alt="222222" src="https://github.com/user-attachments/assets/ed8ca789-f0d6-471b-8ee5-b7ba08da85ab" />
 
 ## Requisitos
 
